@@ -64,11 +64,11 @@ As you might have understood, the aim was to limit overfitting as much as possib
 - To know more on how I prevented overfitting, check my article : https://maelfabien.github.io/deeplearning/regu/
 - To know more on the XCeption model, check my article : https://maelfabien.github.io/deeplearning/xception/
 
-![image](/Presentation/Images/model_fit.png)
+![image](/Images/model_fit.png)
 
 The XCeption architecture is based on DepthWise Separable convolutions that allow to train much fewer parameters, and therefore reduce training time on Colab's GPUs to less than 90 minutes.
 
-![image](/Presentation/Images/video_pipeline2.png)
+![image](/Images/video_pipeline2.png)
 
 ## V. How to use it ?
 
@@ -76,7 +76,7 @@ I will soon by publishing `.py` files with all the required content to launch ea
 
 ## VI. Demonstration
 
-![image](/Presentation/Images/Face.gif)
+![image](/Images/Face.gif)
 
 ## VII. Deployment
 
